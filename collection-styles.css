@@ -1,0 +1,42 @@
+body {
+  background-color: #1968C1;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  height: 100px;
+}
+
+.pics {
+  height: 600px;
+  width: 600%;
+  display: flex;
+  align-content: center;
+}
+
+.box-two {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-two img {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+
+}
+
+#box-one {
+  height: 400px;
+  width: 400px;
+  display: flex;
+}
+
+img {
+  margin: 20px;
+}
